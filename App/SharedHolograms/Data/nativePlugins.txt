@@ -1,0 +1,2 @@
+SharingClient.dll
+AudioPluginMsHRTF.dll
